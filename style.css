@@ -1,7 +1,81 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Helvetica;
+}
+
 header {
 	background: rgb(201,187,183);
 }
 
-nav {
-	background: rgb(198,82,82);
+.heading {
+	padding: 6%;
+	margin: 0;
 }
+
+.logo {
+	width: 22%;
+	position: absolute;
+	top: 5%;
+	right: 3%;
+}
+
+ul {
+	margin: 0;
+	text-align: right;
+	background: rgb(198,82,82);
+	padding: 1em;
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	font-size: 150%;
+	padding-right: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+h1 {
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-size: 650%;
+}
+
+figcaption {
+	font-weight: bold;
+	font-size: 150%;
+}
+
+.article01 {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
