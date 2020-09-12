@@ -63,7 +63,7 @@ li {
 	padding-right: 1.5%;
 }
 
-a {
+.navi {
 	text-decoration: none;
 	color: white;
 }
@@ -113,6 +113,27 @@ figcaption {
 .scooter {
 	width: 98%;
 	height: 98%;
+}
+
+#cc {
+	padding-left: 1%;
+}
+
+h2 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	background-color: rgb(201,187,183);
+}
+
+p.me {
+	text-align: center;
 }
 
 
