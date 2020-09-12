@@ -1,0 +1,37 @@
+.headfoot {
+	font-size: 80%;
+}
+
+ul {
+	margin: 0;
+	text-align: center;
+	background: rgb(198,82,82);
+	padding: 0.5%;}
+
+li {
+	list-style-type: none;
+	display: block;
+	color: white;
+	text-align: center;
+	font-size: 150%;
+	padding-right: 1.5%;
+}
+
+.navi {
+	text-decoration: none;
+	color: white;
+}
+
+h1 {
+	font-size: 150%;
+}
+
+figcaption {
+	font-size: 62%;
+}
+
+.article03 {
+	width: 50%;
+	position: absolute;
+	top: 57.7%;
+	left: 50%;
