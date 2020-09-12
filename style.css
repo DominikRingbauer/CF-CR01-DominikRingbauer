@@ -21,20 +21,26 @@ footer p {
 	text-align: center;
 }
 
-.heading {
-	padding: 0%;
+#container {
+	width: 100%;
+}
+
+.headfoot {
+	padding: 0;
 	margin: 0;
+	font-weight: bold;
+	font-size: 110%;
 }
 
 .logo-top {
-	width: 24%;
+	width: 21%;
 	position: absolute;
 	top: 4%;
 	right: 3%;
 }
 
 .logo-bottom {
-	width: 21%;
+	width: 19%;
 	position: sticky;
 	left: 41%;
 	bottom: -10%;
@@ -44,7 +50,7 @@ ul {
 	margin: 0;
 	text-align: right;
 	background: rgb(198,82,82);
-	padding: 0.1%;
+	padding: 0.5%;
 	padding-right: 5%;
 }
 
@@ -66,12 +72,13 @@ h1 {
 	margin-left: 20%;
 	margin-right: 20%;
 	text-align: center;
-	font-size: 500%;
+	font-size: 440%;
 }
 
 figcaption {
 	font-weight: bold;
-	font-size: 150%;
+	font-size: 217%;
+	text-align: center;
 }
 /*
 .article01 {
@@ -99,8 +106,8 @@ figcaption {
 .article03 {
 	width: 50%;
 	position: absolute;
-	right: 0;
-	bottom: -132.5%;
+	top: 121%;
+	left: 50%;
 }
 
 .scooter {
